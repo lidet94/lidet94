@@ -12,13 +12,13 @@
 
 <h2 align="center"> 👋 About Me </h2>
 
-I’m a career‑changing developer driven by curiosity, problem‑solving, and the desire to build meaningful real‑world tools that genuinely help people. I enjoy exploring the endless world of tech, especially backend development where I can make things work behind the scenes, debug tricky issues, and bring ideas to life through logic and APIs.
+I’m a career changing developer driven by curiosity, problem‑solving, and the desire to build meaningful real‑world tools that genuinely help people. I enjoy exploring the endless world of tech, especially backend development where I can make things work behind the scenes, debug tricky issues, and bring ideas to life.
 
-Right now, I’m strengthening my skills in Python and REST APIs while working toward becoming a Backend Engineer and eventually building my own app. My background in digital support, QA, and working closely with stakeholders gives me a unique perspective — I understand what people need, how to translate requirements, and how to build solutions that actually solve problems.
+Right now, I’m strengthening my skills in Python and REST APIs while working toward becoming a Backend Engineer and eventually building my own app. My background in digital support, QA, and working closely with stakeholders gives me a unique perspective.
 
 <img src="rainbow.gif" width="1000" />
 
-<h2 align="center">🧰 Skills & Tech Stack</h2>
+<h2 align="center">🧰 Skills & Tools</h2>
 
 <p align="center">
 
@@ -54,7 +54,7 @@ Right now, I’m strengthening my skills in Python and REST APIs while working t
 
 <h2 align="center">🎯Future Roles I’m Targeting</h2>
 <p  align="center">
-Junior Full‑Stack Developer | Junior Backend Developer | Software Engineer (Entry‑Level) | Technical Support Engineer (with progression into development)  
+Junior Full‑Stack Developer | Junior Backend Developer | Software Engineer (Entry‑Level) | Technical Support Engineer 
 </p>
 
 <img src="rainbow.gif" width="1000" />
